@@ -1,0 +1,124 @@
+[
+  {
+    "name": "accent chair",
+    "price": 25,
+    "company": "Samsung",
+    "rating": 4
+  },
+  {
+    "name": "albany sectional",
+    "price": 109,
+    "company": "Nokia",
+    "rating": 5
+  },
+  {
+    "name": "albany table",
+    "price": 309,
+    "company": "Nokia",
+    "rating": 4.9
+  },
+  {
+    "name": "armchair",
+    "price": 125,
+    "company": "Samsung",
+    "rating": 4.8
+  },
+  {
+    "name": "bar stool",
+    "price": 40,
+    "company": "Nokia",
+    "rating": 4.6
+  },
+  {
+    "name": "dining table",
+    "price": 42,
+    "company": "Apple",
+    "rating": 4.55
+  },
+  {
+    "name": "emperor bed",
+    "price": 23,
+    "company": "Apple"
+  },
+  {
+    "name": "entertainment center",
+    "price": 59,
+    "company": "Sony"
+  },
+  {
+    "name": "high-back bench",
+    "price": 39,
+    "company": "Apple"
+  },
+
+  {
+    "name": "leather sofa",
+    "price": 99,
+    "company": "Sony"
+  },
+  {
+    "name": "modern bookshelf",
+    "price": 31,
+    "company": "Sony"
+  },
+  {
+    "name": "modern poster",
+    "price": 30,
+    "company": "Nokia"
+  },
+  {
+    "name": "shelf",
+    "price": 30,
+    "company": "Apple"
+  },
+  {
+    "name": "simple chair",
+    "price": 109,
+    "company": "Nokia"
+  },
+  {
+    "name": "sofa set",
+    "price": 129,
+    "company": "Samsung"
+  },
+  {
+    "name": "suede armchair",
+    "price": 15,
+    "company": "Sony"
+  },
+  {
+    "name": "utopia sofa",
+    "price": 79,
+    "company": "Nokia"
+  },
+  {
+    "name": "vase table",
+    "price": 120,
+    "company": "Samsung"
+  },
+  {
+    "name": "wooden bed",
+    "price": 25,
+    "company": "Apple"
+  },
+  {
+    "name": "wooden desk",
+    "price": 15,
+    "company": "Apple"
+  },
+  {
+    "name": "wooden desk",
+    "price": 40,
+    "company": "Apple"
+  },
+  {
+    "name": "wooden table",
+    "price": 23,
+    "company": "Sony"
+  },
+  {
+    "name": "a first wooden table",
+    "price": 23,
+    "company": "Sony"
+  }
+]
